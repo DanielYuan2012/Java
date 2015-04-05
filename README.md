@@ -8,7 +8,7 @@ How many kinds of comments in java?
 5. one line comments using double slash
 6. half line comments after code  using double slash
 
-Notes: any '/' and '*' in qutations marks can't be removed if there are in output line.
+Notes: any slash and star in qutations marks can't be removed if there are in output line.
 such as :     System.out.print("aaaaaaaaaaaaaaa//bbbbbb/******///****");
 
 
