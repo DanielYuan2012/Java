@@ -91,8 +91,8 @@ public class DeleteJavaAnotations {
     public static void main(String[] args) throws IOException{
     	
     	FileReader reader = new FileReader("CopyOfanagrams1.java");
-		FileWriter writer = new FileWriter("CopyOfanagrams1deleteanotations.java");
-		deleteAnotations(reader, writer);
+	FileWriter writer = new FileWriter("CopyOfanagrams1deleteanotations.java");
+	deleteAnotations(reader, writer);
     
     
     }
